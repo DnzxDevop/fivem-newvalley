@@ -1,0 +1,6 @@
+RegisterNetEvent('rcore_spray:remove')
+AddEventHandler('rcore_spray:remove', function(pos)
+    local sprayAtCoords = GetSprayAtCoords(pos)
+    TriggerClientEvent('rcore_spray:setSprays', -1, SPRAYS)
+    local sprayAtCoordsAfterRemoval = GetSprayAtCoords(pos)
+end)

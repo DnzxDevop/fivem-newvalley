@@ -1,0 +1,18 @@
+{
+  "Sound": {
+    "ClientId": "uwH6Wueu3dqcO53W7ZKV8gfXBdwzBDbX",
+    "MaxResults": "25"
+  },
+
+  "Server": {
+    "Host": "127.0.0.1",
+    "Port": "3000"
+  },
+
+  "Database": {
+    "Host": "127.0.0.1",
+    "User": "root",
+    "Password": "",
+    "Database": "fivem"
+  }
+}

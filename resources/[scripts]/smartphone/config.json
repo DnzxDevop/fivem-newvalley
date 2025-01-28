@@ -1,0 +1,74 @@
+{
+    "token": "",
+    "client": {
+        "apps": {
+            "casino": "images/blaze.png",
+            "weazel": "images/weazel.webp"
+
+         },
+        "bankType": "fleeca",
+        "uploadServer": "https://discord.com/api/webhooks/1331069888445546516/EAJAi_Er4yZYbZKeFZym1X5MDfUuCZI2N6h_fy8kVlvUjPYVC-DAkHmXQwuDlQ1-ag0X",
+        "allowUnsafeURL": true,
+        "videoServer": "ws://104.234.63.213:8080",
+        "case": "iphone14pro",
+        "isAndroid": false,
+        "useGameClock": true,
+        "phone_template": "XXX-XXX",
+        "backgroundURL": "http://104.234.63.213/smartphone/stock/wallpapers/iphone14.webp",
+        "disabledApps": [
+            "paypal",
+            "olx",
+            "weazel",
+            "casino"
+        ]
+    },
+    "call_mode": "pma-voice",
+    "webhookURL": "https://discord.com/api/webhooks/1331069888445546516/EAJAi_Er4yZYbZKeFZym1X5MDfUuCZI2N6h_fy8kVlvUjPYVC-DAkHmXQwuDlQ1-ag0X",
+    "instagram_verify": "Verificado",
+    "instagram_accounts": {
+        "Dev": 5,
+        "Admin": 2,
+        "Premium": 2
+    },
+    "tor_blocked": "Police",
+    "exclusive": {
+        "casino": {
+            "maxBet": 5000
+        },
+        "weazel": {
+            "permission": "Admin",
+            "tags": [
+                "Autos",
+                "Economia",
+                "Educação",
+                "Política",
+                "Saúde",
+                "Segurança",
+                "Trabalho e empregos",
+                "Turismo",
+                "Cotidiano"
+            ]
+        }
+    },
+    "moderator": "Admin",
+    "item": "cellphone",
+    "services": [
+        {
+            "name": "Policia",
+            "number": "911",
+            "permission": "Policia"
+        },
+        {
+            "name": "Paramédico",
+            "number": "192",
+            "permission": "Paramedico"
+        },
+        {
+            "name": "Mecânico",
+            "number": "08000-42600",
+            "permission": "Mecanico"
+        }
+    ],
+    "base": "creative_extended",
+    "channel": "stable"
+}
