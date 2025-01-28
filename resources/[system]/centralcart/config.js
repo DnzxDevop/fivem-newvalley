@@ -1,6 +1,6 @@
 module.exports = {
 	// Informe o token da sua loja. Caso ainda não o tenha acesse https://app.centralcart.com.br/settings/plugin/fivem para obtê-lo
-	token: "4996fe14-c908-40b1-91b8-29a538212051",
+	token: "",
 	framework: "auto",
 
 	commands: {
